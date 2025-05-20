@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33774511998",
+    "project_id": "chatpatra-58837",
+    "storage_bucket": "chatpatra-58837.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33774511998:android:d9bc5336b6f2c361dcb52f",
+        "android_client_info": {
+          "package_name": "com.tum.chatpatra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnuMwghc6F0aB1efJHagxEC6E6sxwpgiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
